@@ -1,6 +1,11 @@
+
+Compilation - FAIL
+Error in Line : 
+
 | #  | Use Case | Input  | Output | Expected Output  | Result |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| 1 | 1 |No new input | Send email notifications on existing data  |Send email notifications on existing data | Pass  |
+| 2 | 1 |New card - Hard, within 36 hours | Send email notifications on existing data plus the new card |Send email notifications on existing data plus the new card | Pass  |
 | Content Cell  | Content Cell  |
 
 
