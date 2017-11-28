@@ -1,6 +1,6 @@
 # CheckLogic
 
-| #  | Use Case | Input  | Output | Expected output  | Result |
+| #  | Use Case | Input  | Output | Expected Output  | Result |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
